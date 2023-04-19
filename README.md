@@ -64,3 +64,24 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Para executar o projeto primeiro precisa  rodar o comando 
+
+php artisan migrate:fresh
+para a criação dos bancos
+
+depois rodar 
+
+php artisan serve  
+
+e 
+
+npm run dev      
+
+feedback de desenvolvimento 
+
+no projeto não foi possivel terminar, ficou faltando a configuração  a Implementar um sistema de login para uso da ferramenta, a renderizacação da localização do usuario no mapa, e  integração com a API do gitHub, por causa de conhecimento e de tempo, acabei não consigo terminar 100% o projeto.
+
+Projeto desenvolvido em 2 dias e meio, pausadamente.
+
+
